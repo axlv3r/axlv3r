@@ -1,188 +1,213 @@
-# 👋 Alexsander Oliveira
+# `> whoami`
 
-### `Software Engineering` • `Backend Development` • `Cybersecurity` • `Application Security`
+### **Alexsander Oliveira**
 
-> **Building systems. Understanding vulnerabilities. Engineering security. 🔐**
+`Software Engineering` • `Backend` • `Cybersecurity & AppSec`
+
+> **Build. Break. Secure. Repeat. 🔐**
+
+---
+
+## `~/about`
+
+I'm a **Software Engineering student** focused on backend development, databases, automation and cybersecurity.
+
+My professional background is in **processes, systems, administration and data**, and I'm now combining that experience with software engineering to build technology that solves real-world problems.
+
+I'm particularly interested in understanding both sides of the equation:
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│  SOFTWARE ENGINEERING                                    │
-│  ├── Backend Development                                 │
-│  ├── Databases & APIs                                    │
-│  ├── Automation                                          │
-│  └── Secure Software Development                         │
-│                                                          │
-│  CYBERSECURITY                                           │
-│  ├── Application Security                                │
-│  ├── Web Security                                        │
-│  ├── Authentication & Authorization                      │
-│  └── Security Labs                                       │
-└──────────────────────────────────────────────────────────┘
+How do I build it?
+        +
+How can it be broken?
+        ↓
+How do I make it more secure?
 ```
 
-## `whoami`
+---
 
-Sou estudante de **Engenharia de Software**, construindo uma trajetória voltada ao desenvolvimento de aplicações, backend, bancos de dados e segurança.
-
-Tenho experiência profissional com processos, sistemas, gestão e análise de informações — e atualmente estou transformando essa experiência em soluções tecnológicas através do desenvolvimento de software.
-
-Meu objetivo não é apenas aprender a escrever código.
+## `~/focus`
 
 ```text
-Build → Understand → Test → Secure → Improve
-```
-
-Quero entender como sistemas funcionam, como podem falhar e como podem ser projetados de forma mais segura.
-
----
-
-## ⚡ Current Focus
-
-```python
-current_focus = {
-    "engineering": [
-        "Software Development",
-        "Backend",
-        "REST APIs",
-        "System Design"
-    ],
-    "languages": [
-        "Python",
-        "Java",
-        "SQL"
-    ],
-    "security": [
-        "Application Security",
-        "OWASP",
-        "Authentication",
-        "Authorization",
-        "Secure Coding"
-    ]
-}
+┌──────────────────────────────────────────────────────┐
+│                  CURRENT FOCUS                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  SOFTWARE ENGINEERING                                │
+│  ├── Backend Development                             │
+│  ├── REST APIs                                       │
+│  ├── Databases                                       │
+│  ├── System Design                                   │
+│  └── Automation                                      │
+│                                                      │
+│  CYBERSECURITY                                       │
+│  ├── Application Security                            │
+│  ├── Web Security                                    │
+│  ├── Secure Coding                                   │
+│  ├── Authentication & Authorization                  │
+│  └── Security Labs                                   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `~/stack`
 
-### `Languages`
+### Languages
 
-`Python` • `Java` • `SQL` • `JavaScript`
+`Python` `Java` `SQL` `JavaScript`
 
-### `Development`
+### Backend & Development
 
-`Git` • `GitHub` • `REST APIs` • `Backend` • `Web Development`
+`REST APIs` `Git` `GitHub` `Backend` `Web Development`
 
-### `Data & Databases`
+### Databases
 
-`SQL` • `Relational Databases` • `Database Modeling` • `Data Analysis`
+`SQL` `Relational Databases` `Database Modeling` `DBeaver`
 
-### `Security`
+### Security
 
-`Application Security` • `OWASP` • `Secure Coding` • `Authentication` • `Authorization`
+`OWASP` `Application Security` `Secure Coding` `Authentication` `Authorization`
+
+### Tools
+
+`VS Code` `Firebase` `GitHub Actions`
 
 ---
 
-## 🔐 Security Mindset
+## `~/security`
+
+> Security research and testing performed exclusively in controlled environments and authorized systems.
 
 ```text
-Attack surface identified.
-Input validated.
-Authentication required.
-Authorization enforced.
-Secrets protected.
-Logs monitored.
+Attack Surface
+      ↓
+Understand
+      ↓
+Test in Lab
+      ↓
+Analyze
+      ↓
+Mitigate
+      ↓
+Test Again
 ```
 
-> **Security is not a feature added at the end. It is part of the architecture.**
+My goal is to understand not only how applications work, but also **how they fail and how to make them more resilient**.
 
 ---
 
-## 🧪 Labs & Projects
+## `~/labs`
 
 ### 🔐 Secure API Lab
 
-`Python` `Backend` `API Security` `JWT` `OWASP`
+Application security laboratory focused on secure backend development.
 
-Laboratório prático para desenvolvimento e estudo de APIs seguras.
-
-**Focus:**
-Authentication • Authorization • Password Security • Input Validation • Rate Limiting • Secure Logging
+`Python` `REST API` `Authentication` `Authorization` `JWT` `OWASP`
 
 ---
 
-### 📊 Security Log Analyzer
+### 🕵️ Security Log Analyzer
+
+Security event analysis using Python and SQL to identify suspicious patterns and indicators.
 
 `Python` `SQL` `Data Analysis` `Cybersecurity`
 
-Análise de eventos e logs para identificação de padrões suspeitos e indicadores de segurança.
+---
+
+### 🔒 File Integrity Monitor
+
+Educational file integrity monitoring using cryptographic hashes.
+
+`Python` `SHA-256` `File System` `Security`
 
 ---
 
 ### 🛡️ Web Security Lab
 
-`Web Security` `OWASP` `Application Security`
+Controlled environment for studying web application vulnerabilities and defensive mitigations.
 
-Ambiente controlado para estudo de vulnerabilidades, riscos e técnicas de mitigação.
+`OWASP` `Web Security` `AppSec`
+
+---
+
+## `~/software`
+
+### 💻 Business Management System
+
+Full-stack management platform designed around real-world business processes.
+
+`Clients` `Budgets` `Sales` `Orders` `Products` `Services` `Reports`
+
+---
+
+### 🏫 Maintenance Management System
+
+System for managing maintenance requests, work orders, technicians, schools and service history.
+
+`Backend` `Database` `RBAC` `REST API`
+
+---
+
+## `~/learning`
 
 ```text
-Vulnerability
-      ↓
-Understand
-      ↓
-Reproduce in Lab
-      ↓
-Analyze Impact
-      ↓
-Fix
-      ↓
-Test Again
+                 SOFTWARE ENGINEERING
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+           JAVA                    PYTHON
+             │                       │
+             └───────────┬───────────┘
+                         │
+                         ▼
+                  BACKEND & APIs
+                         │
+                         ▼
+                   DATABASES
+                         │
+                         ▼
+                APPLICATION SECURITY
+                         │
+                         ▼
+                  CYBERSECURITY
+                         │
+                         ▼
+                    DEVSECOPS
 ```
 
 ---
 
-## 🧠 Currently Learning
+## `~/philosophy`
 
 ```text
-Software Engineering
-        │
-        ├── Java
-        ├── Python
-        ├── SQL
-        │
-        ▼
-Backend & APIs
-        │
-        ▼
-Application Security
-        │
-        ▼
-Cybersecurity
-        │
-        ▼
-Cloud / DevSecOps
+Write code.
+Understand the system.
+Find the weakness.
+Fix the weakness.
+Document everything.
+Repeat.
 ```
+
+> **Security isn't something you add at the end.**
+>
+> **It's something you build into the system.**
 
 ---
 
-## 🎯 Mission
+## `~/connect`
 
-```text
-Write better code.
-Build better systems.
-Understand security.
-Never stop learning.
-```
+🔗 **LinkedIn**
+https://www.linkedin.com/in/alexsander-oliveira-b10b08361/
+
+💻 **GitHub**
+https://github.com/AlexsanderOliver
 
 ---
 
-### 📫 Connect
-
-**LinkedIn:** linkedin.com/in/alexsander-oliveira-b10b08361
-
-**GitHub:** github.com/AlexsanderOliver
-
 ```text
-$ echo "Code. Break. Learn. Secure. Repeat."
-Code. Break. Learn. Secure. Repeat.
+$ echo "Build. Break. Secure. Repeat."
+
+Build. Break. Secure. Repeat. 🔐
 ```
